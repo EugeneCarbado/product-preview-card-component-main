@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-with-plain-html-css-wzelwDziyf)
-- Live Site URL: [Add live site URL here](https://product-preview-card-component-main-ten.vercel.app/)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-with-plain-html-css-wzelwDziyf)
+- Live Site URL: [live site URL](https://product-preview-card-component-main-ten.vercel.app/)
 
 ## My process
 
@@ -56,6 +56,5 @@ I will continue to do projects like this and gradually build up to bigger challe
 
 ## Author
 
-- Website - [Add your name here](https://eugenecarbado.dev/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/eugenecarbado)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Eugene Carbado](https://eugenecarbado.dev/)
+- Frontend Mentor - [@eugenecarbado](https://www.frontendmentor.io/profile/eugenecarbado)
