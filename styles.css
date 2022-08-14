@@ -175,15 +175,6 @@ button p {
     font-weight: 700;
 }
 
-.attribution {
-    position: absolute;
-    bottom: 0px;
-    margin: 0 auto;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    font-family: 'Montserrat', sans-serif;
-}
-
 /* Media queries */
 
 @media (min-width: 768px) {
