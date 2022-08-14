@@ -54,6 +54,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    padding-bottom: 30px;
 }
 
 .main_section {
@@ -177,7 +178,6 @@ button p {
     position: absolute;
     bottom: 0px;
     margin: 0 auto;
-    padding-top: 50px;
     padding-bottom: 10px;
     padding-left: 10px;
     font-family: 'Montserrat', sans-serif;
